@@ -1,13 +1,15 @@
 {
   "name": "tanstack-playground",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Exploring new tech",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
   },
   "keywords": [],
-  "author": "",
+  "author": "@kinsyudev",
   "license": "ISC",
   "dependencies": {
     "@tanstack/react-router": "^1.51.7",
